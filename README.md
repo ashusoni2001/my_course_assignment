@@ -1,2 +1,2 @@
 # my_course_assignment
-this contains my course assignment
+This FOLDER CONTAINS MY Ineuron FULL STACK DATA SCIENCE COURSE ASSIGNMENTS 
